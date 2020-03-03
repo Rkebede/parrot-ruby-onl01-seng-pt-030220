@@ -3,7 +3,7 @@
 
 
 
-def parrot (phrase = "Squawk!")
+def parrot (phrase = "asdf!")
   puts "Squawk!"
     "Squawk!"
   
